@@ -1,0 +1,34 @@
+[
+  {
+    "id": 575213,
+    "category": {
+      "id": 1,
+      "name": "dog"
+    },
+    "name": "Cristal",
+    "photoUrls": ["string"],
+    "tags": [
+      {
+        "id": 1,
+        "name": "vaccined"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 878212,
+    "category": {
+      "id": 1,
+      "name": "dog"
+    },
+    "name": "Bolt",
+    "photoUrls": ["string"],
+    "tags": [
+      {
+        "id": 1,
+        "name": "vaccined"
+      }
+    ],
+    "status": "available"
+  }
+]
